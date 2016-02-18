@@ -1,8 +1,10 @@
 require 'spec_helper'
+require 'httpclient'
 require 'rubygems'
 require 'bundler/setup'
 require 'RestServiceBase'
 require 'mocks/ProjectcreationMock'
+
 
 describe "Projectcreation" do
 

@@ -31,7 +31,7 @@ module ProjectcreationMock
       {"Value":3,"Text":"US Protected Health Information (PHI)"}]
 
     ProjectCreationInsertData = '{
-          "ProjectName":"TestSri2",
+          "ProjectName":"TestSri3",
           "DomainProjectStatusID":0,
           "DomainServiceLineID":1,
           "ClientID":8992,
